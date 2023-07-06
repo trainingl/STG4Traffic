@@ -1,0 +1,332 @@
+2022-12-07 21:55: Experiment log path in: /home/trainingl/GNN4Traffic/TrafficFlow/log/AGCRN/PEMSD8/20221207215531
+2022-12-07 21:55: Epoch 001, Train Loss: 211.4098, Valid Loss: 197.1741, Training Time: 23.4486 secs, Inference Time: 3.3584 secs.
+2022-12-07 21:55: Current best model saved!
+2022-12-07 21:56: Epoch 002, Train Loss: 181.0113, Valid Loss: 172.4377, Training Time: 22.8773 secs, Inference Time: 3.3287 secs.
+2022-12-07 21:56: Current best model saved!
+2022-12-07 21:56: Epoch 003, Train Loss: 160.1087, Valid Loss: 154.9408, Training Time: 23.2433 secs, Inference Time: 3.5113 secs.
+2022-12-07 21:56: Current best model saved!
+2022-12-07 21:57: Epoch 004, Train Loss: 145.6242, Valid Loss: 143.0084, Training Time: 23.0277 secs, Inference Time: 3.3420 secs.
+2022-12-07 21:57: Current best model saved!
+2022-12-07 21:57: Epoch 005, Train Loss: 136.0207, Valid Loss: 135.2547, Training Time: 22.9991 secs, Inference Time: 3.3791 secs.
+2022-12-07 21:57: Current best model saved!
+2022-12-07 21:58: Epoch 006, Train Loss: 129.8763, Valid Loss: 130.1627, Training Time: 23.0244 secs, Inference Time: 3.3990 secs.
+2022-12-07 21:58: Current best model saved!
+2022-12-07 21:58: Epoch 007, Train Loss: 125.8922, Valid Loss: 126.8690, Training Time: 23.0480 secs, Inference Time: 3.3355 secs.
+2022-12-07 21:58: Current best model saved!
+2022-12-07 21:59: Epoch 008, Train Loss: 123.4495, Valid Loss: 124.7904, Training Time: 23.2358 secs, Inference Time: 3.6220 secs.
+2022-12-07 21:59: Current best model saved!
+2022-12-07 21:59: Epoch 009, Train Loss: 118.0589, Valid Loss: 111.2563, Training Time: 25.1487 secs, Inference Time: 4.0276 secs.
+2022-12-07 21:59: Current best model saved!
+2022-12-07 22:00: Epoch 010, Train Loss: 98.8695, Valid Loss: 90.5593, Training Time: 25.9883 secs, Inference Time: 4.1699 secs.
+2022-12-07 22:00: Current best model saved!
+2022-12-07 22:00: Epoch 011, Train Loss: 76.0734, Valid Loss: 68.0242, Training Time: 25.3585 secs, Inference Time: 4.2334 secs.
+2022-12-07 22:00: Current best model saved!
+2022-12-07 22:01: Epoch 012, Train Loss: 58.5772, Valid Loss: 55.6107, Training Time: 25.5331 secs, Inference Time: 4.0630 secs.
+2022-12-07 22:01: Current best model saved!
+2022-12-07 22:01: Epoch 013, Train Loss: 49.3354, Valid Loss: 48.1788, Training Time: 25.4298 secs, Inference Time: 4.0941 secs.
+2022-12-07 22:01: Current best model saved!
+2022-12-07 22:02: Epoch 014, Train Loss: 42.9282, Valid Loss: 42.0459, Training Time: 25.2279 secs, Inference Time: 4.1324 secs.
+2022-12-07 22:02: Current best model saved!
+2022-12-07 22:02: Epoch 015, Train Loss: 38.0187, Valid Loss: 37.7055, Training Time: 25.9716 secs, Inference Time: 4.1113 secs.
+2022-12-07 22:02: Current best model saved!
+2022-12-07 22:03: Epoch 016, Train Loss: 34.3900, Valid Loss: 34.3199, Training Time: 25.3353 secs, Inference Time: 4.1533 secs.
+2022-12-07 22:03: Current best model saved!
+2022-12-07 22:03: Epoch 017, Train Loss: 31.5085, Valid Loss: 31.7614, Training Time: 25.7389 secs, Inference Time: 4.3634 secs.
+2022-12-07 22:03: Current best model saved!
+2022-12-07 22:04: Epoch 018, Train Loss: 29.4244, Valid Loss: 29.8532, Training Time: 25.8359 secs, Inference Time: 4.3352 secs.
+2022-12-07 22:04: Current best model saved!
+2022-12-07 22:04: Epoch 019, Train Loss: 27.6597, Valid Loss: 28.0300, Training Time: 25.2344 secs, Inference Time: 3.9564 secs.
+2022-12-07 22:04: Current best model saved!
+2022-12-07 22:04: Epoch 020, Train Loss: 26.2653, Valid Loss: 26.6709, Training Time: 25.1334 secs, Inference Time: 4.2050 secs.
+2022-12-07 22:04: Current best model saved!
+2022-12-07 22:05: Epoch 021, Train Loss: 25.0910, Valid Loss: 25.4993, Training Time: 25.5381 secs, Inference Time: 4.2937 secs.
+2022-12-07 22:05: Current best model saved!
+2022-12-07 22:05: Epoch 022, Train Loss: 24.0494, Valid Loss: 24.4814, Training Time: 25.7289 secs, Inference Time: 4.1595 secs.
+2022-12-07 22:05: Current best model saved!
+2022-12-07 22:06: Epoch 023, Train Loss: 23.1573, Valid Loss: 23.7019, Training Time: 25.3322 secs, Inference Time: 4.0690 secs.
+2022-12-07 22:06: Current best model saved!
+2022-12-07 22:06: Epoch 024, Train Loss: 22.3865, Valid Loss: 22.6641, Training Time: 25.7053 secs, Inference Time: 4.3084 secs.
+2022-12-07 22:06: Current best model saved!
+2022-12-07 22:07: Epoch 025, Train Loss: 21.6888, Valid Loss: 22.0020, Training Time: 25.9513 secs, Inference Time: 4.0807 secs.
+2022-12-07 22:07: Current best model saved!
+2022-12-07 22:07: Epoch 026, Train Loss: 21.1333, Valid Loss: 21.9463, Training Time: 25.3447 secs, Inference Time: 3.9978 secs.
+2022-12-07 22:07: Current best model saved!
+2022-12-07 22:08: Epoch 027, Train Loss: 20.6339, Valid Loss: 20.9331, Training Time: 25.3853 secs, Inference Time: 4.0217 secs.
+2022-12-07 22:08: Current best model saved!
+2022-12-07 22:08: Epoch 028, Train Loss: 20.2826, Valid Loss: 20.5821, Training Time: 25.7691 secs, Inference Time: 4.1963 secs.
+2022-12-07 22:08: Current best model saved!
+2022-12-07 22:09: Epoch 029, Train Loss: 19.8882, Valid Loss: 20.2955, Training Time: 25.1941 secs, Inference Time: 4.0461 secs.
+2022-12-07 22:09: Current best model saved!
+2022-12-07 22:09: Epoch 030, Train Loss: 19.6278, Valid Loss: 20.1642, Training Time: 25.3812 secs, Inference Time: 4.0645 secs.
+2022-12-07 22:09: Current best model saved!
+2022-12-07 22:10: Epoch 031, Train Loss: 19.4815, Valid Loss: 19.7985, Training Time: 25.9618 secs, Inference Time: 4.6972 secs.
+2022-12-07 22:10: Current best model saved!
+2022-12-07 22:10: Epoch 032, Train Loss: 19.1776, Valid Loss: 19.7108, Training Time: 25.7797 secs, Inference Time: 3.9521 secs.
+2022-12-07 22:10: Current best model saved!
+2022-12-07 22:11: Epoch 033, Train Loss: 18.9551, Valid Loss: 19.3245, Training Time: 25.0275 secs, Inference Time: 4.1127 secs.
+2022-12-07 22:11: Current best model saved!
+2022-12-07 22:11: Epoch 034, Train Loss: 18.8462, Valid Loss: 19.1131, Training Time: 25.3633 secs, Inference Time: 4.0690 secs.
+2022-12-07 22:11: Current best model saved!
+2022-12-07 22:12: Epoch 035, Train Loss: 18.6613, Valid Loss: 19.0314, Training Time: 25.8471 secs, Inference Time: 4.1111 secs.
+2022-12-07 22:12: Current best model saved!
+2022-12-07 22:12: Epoch 036, Train Loss: 18.5105, Valid Loss: 18.8898, Training Time: 25.3068 secs, Inference Time: 4.0203 secs.
+2022-12-07 22:12: Current best model saved!
+2022-12-07 22:13: Epoch 037, Train Loss: 18.3708, Valid Loss: 18.9297, Training Time: 25.2482 secs, Inference Time: 4.1949 secs.
+2022-12-07 22:13: Epoch 038, Train Loss: 18.2351, Valid Loss: 18.6693, Training Time: 25.8861 secs, Inference Time: 4.2603 secs.
+2022-12-07 22:13: Current best model saved!
+2022-12-07 22:14: Epoch 039, Train Loss: 18.1054, Valid Loss: 18.7436, Training Time: 25.8929 secs, Inference Time: 4.0792 secs.
+2022-12-07 22:14: Epoch 040, Train Loss: 17.9973, Valid Loss: 18.4507, Training Time: 25.0229 secs, Inference Time: 4.0322 secs.
+2022-12-07 22:14: Current best model saved!
+2022-12-07 22:15: Epoch 041, Train Loss: 17.9532, Valid Loss: 18.4028, Training Time: 25.5836 secs, Inference Time: 4.3486 secs.
+2022-12-07 22:15: Current best model saved!
+2022-12-07 22:15: Epoch 042, Train Loss: 17.8393, Valid Loss: 18.3903, Training Time: 25.4942 secs, Inference Time: 4.0078 secs.
+2022-12-07 22:15: Current best model saved!
+2022-12-07 22:16: Epoch 043, Train Loss: 17.7664, Valid Loss: 18.2933, Training Time: 25.2980 secs, Inference Time: 4.0365 secs.
+2022-12-07 22:16: Current best model saved!
+2022-12-07 22:16: Epoch 044, Train Loss: 17.6519, Valid Loss: 18.2529, Training Time: 25.2507 secs, Inference Time: 4.2335 secs.
+2022-12-07 22:16: Current best model saved!
+2022-12-07 22:17: Epoch 045, Train Loss: 17.6280, Valid Loss: 18.1987, Training Time: 26.0941 secs, Inference Time: 4.0817 secs.
+2022-12-07 22:17: Current best model saved!
+2022-12-07 22:17: Epoch 046, Train Loss: 17.5029, Valid Loss: 18.0361, Training Time: 25.9074 secs, Inference Time: 4.3448 secs.
+2022-12-07 22:17: Current best model saved!
+2022-12-07 22:18: Epoch 047, Train Loss: 17.4599, Valid Loss: 18.0000, Training Time: 25.2545 secs, Inference Time: 4.0621 secs.
+2022-12-07 22:18: Current best model saved!
+2022-12-07 22:18: Epoch 048, Train Loss: 17.3827, Valid Loss: 17.8476, Training Time: 25.9403 secs, Inference Time: 4.0967 secs.
+2022-12-07 22:18: Current best model saved!
+2022-12-07 22:19: Epoch 049, Train Loss: 17.2917, Valid Loss: 18.1972, Training Time: 25.2279 secs, Inference Time: 4.0282 secs.
+2022-12-07 22:19: Epoch 050, Train Loss: 17.2627, Valid Loss: 17.9665, Training Time: 25.1738 secs, Inference Time: 4.0565 secs.
+2022-12-07 22:20: Epoch 051, Train Loss: 17.1973, Valid Loss: 17.8746, Training Time: 25.5934 secs, Inference Time: 4.2633 secs.
+2022-12-07 22:20: Epoch 052, Train Loss: 17.1569, Valid Loss: 17.7957, Training Time: 25.4827 secs, Inference Time: 4.0672 secs.
+2022-12-07 22:20: Current best model saved!
+2022-12-07 22:21: Epoch 053, Train Loss: 17.0755, Valid Loss: 17.5968, Training Time: 25.9777 secs, Inference Time: 4.3817 secs.
+2022-12-07 22:21: Current best model saved!
+2022-12-07 22:21: Epoch 054, Train Loss: 17.0162, Valid Loss: 17.5433, Training Time: 25.3601 secs, Inference Time: 4.1907 secs.
+2022-12-07 22:21: Current best model saved!
+2022-12-07 22:22: Epoch 055, Train Loss: 16.9928, Valid Loss: 17.5298, Training Time: 25.9156 secs, Inference Time: 4.1521 secs.
+2022-12-07 22:22: Current best model saved!
+2022-12-07 22:22: Epoch 056, Train Loss: 16.9659, Valid Loss: 17.5773, Training Time: 25.4368 secs, Inference Time: 3.9990 secs.
+2022-12-07 22:23: Epoch 057, Train Loss: 16.9444, Valid Loss: 17.4493, Training Time: 24.9920 secs, Inference Time: 4.0472 secs.
+2022-12-07 22:23: Current best model saved!
+2022-12-07 22:23: Epoch 058, Train Loss: 16.8759, Valid Loss: 17.4299, Training Time: 25.9967 secs, Inference Time: 3.9885 secs.
+2022-12-07 22:23: Current best model saved!
+2022-12-07 22:24: Epoch 059, Train Loss: 16.8174, Valid Loss: 17.5133, Training Time: 25.4446 secs, Inference Time: 4.0622 secs.
+2022-12-07 22:24: Epoch 060, Train Loss: 16.8872, Valid Loss: 17.4273, Training Time: 25.7888 secs, Inference Time: 4.2934 secs.
+2022-12-07 22:24: Current best model saved!
+2022-12-07 22:25: Epoch 061, Train Loss: 16.7426, Valid Loss: 17.4548, Training Time: 25.8819 secs, Inference Time: 4.2415 secs.
+2022-12-07 22:25: Epoch 062, Train Loss: 16.7632, Valid Loss: 17.3616, Training Time: 25.4080 secs, Inference Time: 4.0258 secs.
+2022-12-07 22:25: Current best model saved!
+2022-12-07 22:26: Epoch 063, Train Loss: 16.7175, Valid Loss: 17.3543, Training Time: 25.1830 secs, Inference Time: 4.1349 secs.
+2022-12-07 22:26: Current best model saved!
+2022-12-07 22:26: Epoch 064, Train Loss: 16.6519, Valid Loss: 17.2348, Training Time: 25.4440 secs, Inference Time: 4.1553 secs.
+2022-12-07 22:26: Current best model saved!
+2022-12-07 22:27: Epoch 065, Train Loss: 16.6492, Valid Loss: 17.6307, Training Time: 25.8922 secs, Inference Time: 4.1164 secs.
+2022-12-07 22:27: Epoch 066, Train Loss: 16.6055, Valid Loss: 17.2805, Training Time: 25.3989 secs, Inference Time: 4.0485 secs.
+2022-12-07 22:28: Epoch 067, Train Loss: 16.6055, Valid Loss: 17.4093, Training Time: 25.5859 secs, Inference Time: 4.2707 secs.
+2022-12-07 22:28: Epoch 068, Train Loss: 16.5349, Valid Loss: 17.3084, Training Time: 26.2544 secs, Inference Time: 4.1155 secs.
+2022-12-07 22:29: Epoch 069, Train Loss: 16.4867, Valid Loss: 17.2622, Training Time: 25.2350 secs, Inference Time: 4.0907 secs.
+2022-12-07 22:29: Epoch 070, Train Loss: 16.4895, Valid Loss: 17.2855, Training Time: 25.2528 secs, Inference Time: 4.1301 secs.
+2022-12-07 22:30: Epoch 071, Train Loss: 16.4459, Valid Loss: 17.2739, Training Time: 25.4220 secs, Inference Time: 4.2411 secs.
+2022-12-07 22:30: Epoch 072, Train Loss: 16.4635, Valid Loss: 17.1571, Training Time: 25.2237 secs, Inference Time: 3.9856 secs.
+2022-12-07 22:30: Current best model saved!
+2022-12-07 22:31: Epoch 073, Train Loss: 16.4107, Valid Loss: 17.1004, Training Time: 25.2054 secs, Inference Time: 4.1050 secs.
+2022-12-07 22:31: Current best model saved!
+2022-12-07 22:31: Epoch 074, Train Loss: 16.3719, Valid Loss: 17.0791, Training Time: 25.1694 secs, Inference Time: 4.4405 secs.
+2022-12-07 22:31: Current best model saved!
+2022-12-07 22:32: Epoch 075, Train Loss: 16.3789, Valid Loss: 17.0970, Training Time: 26.5497 secs, Inference Time: 4.0772 secs.
+2022-12-07 22:32: Epoch 076, Train Loss: 16.2895, Valid Loss: 17.0418, Training Time: 25.0405 secs, Inference Time: 4.0719 secs.
+2022-12-07 22:32: Current best model saved!
+2022-12-07 22:33: Epoch 077, Train Loss: 16.3049, Valid Loss: 17.1131, Training Time: 25.1358 secs, Inference Time: 4.0626 secs.
+2022-12-07 22:33: Epoch 078, Train Loss: 16.2308, Valid Loss: 17.1293, Training Time: 25.6665 secs, Inference Time: 4.2051 secs.
+2022-12-07 22:34: Epoch 079, Train Loss: 16.2292, Valid Loss: 17.0589, Training Time: 25.3276 secs, Inference Time: 4.1224 secs.
+2022-12-07 22:34: Epoch 080, Train Loss: 16.1966, Valid Loss: 17.0043, Training Time: 25.0779 secs, Inference Time: 4.0149 secs.
+2022-12-07 22:34: Current best model saved!
+2022-12-07 22:35: Epoch 081, Train Loss: 16.2052, Valid Loss: 17.1208, Training Time: 25.3207 secs, Inference Time: 4.2655 secs.
+2022-12-07 22:35: Epoch 082, Train Loss: 16.1576, Valid Loss: 17.0791, Training Time: 25.8503 secs, Inference Time: 4.3308 secs.
+2022-12-07 22:36: Epoch 083, Train Loss: 16.1730, Valid Loss: 17.0158, Training Time: 25.4582 secs, Inference Time: 4.0649 secs.
+2022-12-07 22:36: Epoch 084, Train Loss: 16.1362, Valid Loss: 16.9360, Training Time: 25.5220 secs, Inference Time: 4.1316 secs.
+2022-12-07 22:36: Current best model saved!
+2022-12-07 22:37: Epoch 085, Train Loss: 16.0962, Valid Loss: 16.9465, Training Time: 25.8101 secs, Inference Time: 4.0489 secs.
+2022-12-07 22:37: Epoch 086, Train Loss: 16.0786, Valid Loss: 17.0559, Training Time: 25.1138 secs, Inference Time: 4.0240 secs.
+2022-12-07 22:38: Epoch 087, Train Loss: 16.0613, Valid Loss: 16.9499, Training Time: 25.3138 secs, Inference Time: 4.2084 secs.
+2022-12-07 22:38: Epoch 088, Train Loss: 16.0267, Valid Loss: 16.8908, Training Time: 25.9758 secs, Inference Time: 4.1973 secs.
+2022-12-07 22:38: Current best model saved!
+2022-12-07 22:39: Epoch 089, Train Loss: 16.0217, Valid Loss: 16.9407, Training Time: 25.6136 secs, Inference Time: 4.2205 secs.
+2022-12-07 22:39: Epoch 090, Train Loss: 15.9853, Valid Loss: 16.9111, Training Time: 25.4013 secs, Inference Time: 4.1281 secs.
+2022-12-07 22:40: Epoch 091, Train Loss: 15.9652, Valid Loss: 16.7402, Training Time: 25.5652 secs, Inference Time: 4.2276 secs.
+2022-12-07 22:40: Current best model saved!
+2022-12-07 22:40: Epoch 092, Train Loss: 15.9258, Valid Loss: 16.8917, Training Time: 25.5584 secs, Inference Time: 4.0317 secs.
+2022-12-07 22:41: Epoch 093, Train Loss: 15.9307, Valid Loss: 16.8248, Training Time: 25.0453 secs, Inference Time: 4.1550 secs.
+2022-12-07 22:41: Epoch 094, Train Loss: 15.8908, Valid Loss: 16.8203, Training Time: 25.2396 secs, Inference Time: 4.2103 secs.
+2022-12-07 22:42: Epoch 095, Train Loss: 15.9162, Valid Loss: 16.9728, Training Time: 25.7709 secs, Inference Time: 4.0774 secs.
+2022-12-07 22:42: Epoch 096, Train Loss: 15.8993, Valid Loss: 16.8240, Training Time: 25.5613 secs, Inference Time: 4.3484 secs.
+2022-12-07 22:43: Epoch 097, Train Loss: 15.8526, Valid Loss: 16.7462, Training Time: 25.8476 secs, Inference Time: 3.9826 secs.
+2022-12-07 22:43: Epoch 098, Train Loss: 15.8269, Valid Loss: 16.7442, Training Time: 25.5688 secs, Inference Time: 4.1315 secs.
+2022-12-07 22:44: Epoch 099, Train Loss: 15.8188, Valid Loss: 16.8159, Training Time: 25.1960 secs, Inference Time: 4.1075 secs.
+2022-12-07 22:44: Epoch 100, Train Loss: 15.8099, Valid Loss: 16.9312, Training Time: 25.3187 secs, Inference Time: 4.1706 secs.
+2022-12-07 22:45: Epoch 101, Train Loss: 15.8130, Valid Loss: 16.8095, Training Time: 25.4402 secs, Inference Time: 4.3578 secs.
+2022-12-07 22:45: Epoch 102, Train Loss: 15.7641, Valid Loss: 16.7451, Training Time: 25.3804 secs, Inference Time: 4.1130 secs.
+2022-12-07 22:46: Epoch 103, Train Loss: 15.7752, Valid Loss: 16.7984, Training Time: 25.1521 secs, Inference Time: 4.4549 secs.
+2022-12-07 22:46: Epoch 104, Train Loss: 15.7359, Valid Loss: 16.7576, Training Time: 25.7443 secs, Inference Time: 4.1146 secs.
+2022-12-07 22:47: Epoch 105, Train Loss: 15.7087, Valid Loss: 16.7253, Training Time: 25.6386 secs, Inference Time: 4.1518 secs.
+2022-12-07 22:47: Current best model saved!
+2022-12-07 22:47: Epoch 106, Train Loss: 15.6969, Valid Loss: 16.7778, Training Time: 25.0797 secs, Inference Time: 4.0630 secs.
+2022-12-07 22:47: Epoch 107, Train Loss: 15.6943, Valid Loss: 16.7449, Training Time: 25.3036 secs, Inference Time: 4.0427 secs.
+2022-12-07 22:48: Epoch 108, Train Loss: 15.7108, Valid Loss: 16.6780, Training Time: 25.6423 secs, Inference Time: 4.1398 secs.
+2022-12-07 22:48: Current best model saved!
+2022-12-07 22:48: Epoch 109, Train Loss: 15.6643, Valid Loss: 16.6900, Training Time: 25.3297 secs, Inference Time: 4.1269 secs.
+2022-12-07 22:49: Epoch 110, Train Loss: 15.6471, Valid Loss: 16.7056, Training Time: 25.2684 secs, Inference Time: 4.1524 secs.
+2022-12-07 22:49: Epoch 111, Train Loss: 15.6382, Valid Loss: 16.7045, Training Time: 26.4813 secs, Inference Time: 4.6831 secs.
+2022-12-07 22:50: Epoch 112, Train Loss: 15.6298, Valid Loss: 16.7088, Training Time: 26.2198 secs, Inference Time: 3.7089 secs.
+2022-12-07 22:50: Epoch 113, Train Loss: 15.6207, Valid Loss: 16.6409, Training Time: 23.8818 secs, Inference Time: 3.7128 secs.
+2022-12-07 22:50: Current best model saved!
+2022-12-07 22:51: Epoch 114, Train Loss: 15.6079, Valid Loss: 16.6415, Training Time: 24.1348 secs, Inference Time: 3.8795 secs.
+2022-12-07 22:51: Epoch 115, Train Loss: 15.5561, Valid Loss: 16.7477, Training Time: 24.0508 secs, Inference Time: 3.6660 secs.
+2022-12-07 22:52: Epoch 116, Train Loss: 15.5819, Valid Loss: 16.5930, Training Time: 23.9621 secs, Inference Time: 3.6948 secs.
+2022-12-07 22:52: Current best model saved!
+2022-12-07 22:52: Epoch 117, Train Loss: 15.5749, Valid Loss: 16.6039, Training Time: 24.1963 secs, Inference Time: 3.8309 secs.
+2022-12-07 22:53: Epoch 118, Train Loss: 15.5396, Valid Loss: 16.7402, Training Time: 23.9768 secs, Inference Time: 3.7325 secs.
+2022-12-07 22:53: Epoch 119, Train Loss: 15.5118, Valid Loss: 16.7254, Training Time: 23.8942 secs, Inference Time: 3.6685 secs.
+2022-12-07 22:54: Epoch 120, Train Loss: 15.5291, Valid Loss: 16.6269, Training Time: 24.2573 secs, Inference Time: 3.7552 secs.
+2022-12-07 22:54: Epoch 121, Train Loss: 15.5037, Valid Loss: 16.7112, Training Time: 23.9696 secs, Inference Time: 3.6826 secs.
+2022-12-07 22:55: Epoch 122, Train Loss: 15.4940, Valid Loss: 16.6280, Training Time: 24.1111 secs, Inference Time: 3.6951 secs.
+2022-12-07 22:55: Epoch 123, Train Loss: 15.5054, Valid Loss: 16.6347, Training Time: 24.5184 secs, Inference Time: 3.6217 secs.
+2022-12-07 22:56: Epoch 124, Train Loss: 15.4721, Valid Loss: 16.6134, Training Time: 24.0317 secs, Inference Time: 3.6777 secs.
+2022-12-07 22:56: Epoch 125, Train Loss: 15.4672, Valid Loss: 16.6080, Training Time: 23.9964 secs, Inference Time: 3.6857 secs.
+2022-12-07 22:56: Epoch 126, Train Loss: 15.4814, Valid Loss: 16.6834, Training Time: 24.3596 secs, Inference Time: 3.5935 secs.
+2022-12-07 22:57: Epoch 127, Train Loss: 15.4613, Valid Loss: 16.5865, Training Time: 23.9320 secs, Inference Time: 3.6562 secs.
+2022-12-07 22:57: Current best model saved!
+2022-12-07 22:57: Epoch 128, Train Loss: 15.4368, Valid Loss: 16.6567, Training Time: 23.9130 secs, Inference Time: 3.6622 secs.
+2022-12-07 22:58: Epoch 129, Train Loss: 15.3999, Valid Loss: 16.6359, Training Time: 24.3820 secs, Inference Time: 3.7162 secs.
+2022-12-07 22:58: Epoch 130, Train Loss: 15.4199, Valid Loss: 16.5242, Training Time: 24.0253 secs, Inference Time: 3.6199 secs.
+2022-12-07 22:58: Current best model saved!
+2022-12-07 22:59: Epoch 131, Train Loss: 15.4091, Valid Loss: 16.4990, Training Time: 23.9333 secs, Inference Time: 3.8752 secs.
+2022-12-07 22:59: Current best model saved!
+2022-12-07 22:59: Epoch 132, Train Loss: 15.4154, Valid Loss: 16.5657, Training Time: 24.3202 secs, Inference Time: 3.6650 secs.
+2022-12-07 23:00: Epoch 133, Train Loss: 15.3961, Valid Loss: 16.6942, Training Time: 23.9520 secs, Inference Time: 3.6680 secs.
+2022-12-07 23:00: Epoch 134, Train Loss: 15.3709, Valid Loss: 16.5636, Training Time: 24.1058 secs, Inference Time: 3.8381 secs.
+2022-12-07 23:01: Epoch 135, Train Loss: 15.3539, Valid Loss: 16.5847, Training Time: 24.1614 secs, Inference Time: 3.6430 secs.
+2022-12-07 23:01: Epoch 136, Train Loss: 15.3884, Valid Loss: 16.5037, Training Time: 23.9358 secs, Inference Time: 3.6626 secs.
+2022-12-07 23:02: Epoch 137, Train Loss: 15.3618, Valid Loss: 16.5867, Training Time: 24.2019 secs, Inference Time: 3.8668 secs.
+2022-12-07 23:02: Epoch 138, Train Loss: 15.3640, Valid Loss: 16.5833, Training Time: 23.9630 secs, Inference Time: 3.6241 secs.
+2022-12-07 23:02: Epoch 139, Train Loss: 15.3606, Valid Loss: 16.5077, Training Time: 23.8795 secs, Inference Time: 3.7048 secs.
+2022-12-07 23:03: Epoch 140, Train Loss: 15.3392, Valid Loss: 16.5113, Training Time: 24.2303 secs, Inference Time: 3.6868 secs.
+2022-12-07 23:03: Epoch 141, Train Loss: 15.3121, Valid Loss: 16.4894, Training Time: 23.9260 secs, Inference Time: 3.7045 secs.
+2022-12-07 23:03: Current best model saved!
+2022-12-07 23:04: Epoch 142, Train Loss: 15.3218, Valid Loss: 16.5961, Training Time: 23.8455 secs, Inference Time: 3.5660 secs.
+2022-12-07 23:04: Epoch 143, Train Loss: 15.3166, Valid Loss: 16.6571, Training Time: 24.3784 secs, Inference Time: 3.6954 secs.
+2022-12-07 23:05: Epoch 144, Train Loss: 15.2959, Valid Loss: 16.5049, Training Time: 24.1125 secs, Inference Time: 3.6564 secs.
+2022-12-07 23:05: Epoch 145, Train Loss: 15.2586, Valid Loss: 16.5208, Training Time: 24.0878 secs, Inference Time: 3.6873 secs.
+2022-12-07 23:06: Epoch 146, Train Loss: 15.3935, Valid Loss: 16.6252, Training Time: 24.4518 secs, Inference Time: 3.6452 secs.
+2022-12-07 23:06: Epoch 147, Train Loss: 15.3412, Valid Loss: 16.6437, Training Time: 23.9835 secs, Inference Time: 3.6547 secs.
+2022-12-07 23:07: Epoch 148, Train Loss: 15.3201, Valid Loss: 16.5212, Training Time: 24.0025 secs, Inference Time: 3.7950 secs.
+2022-12-07 23:07: Epoch 149, Train Loss: 15.2705, Valid Loss: 16.4639, Training Time: 24.3203 secs, Inference Time: 3.6823 secs.
+2022-12-07 23:07: Current best model saved!
+2022-12-07 23:08: Epoch 150, Train Loss: 15.2804, Valid Loss: 16.5700, Training Time: 23.9313 secs, Inference Time: 3.7135 secs.
+2022-12-07 23:08: Epoch 151, Train Loss: 15.2568, Valid Loss: 16.6700, Training Time: 24.1242 secs, Inference Time: 3.8135 secs.
+2022-12-07 23:09: Epoch 152, Train Loss: 15.2131, Valid Loss: 16.4961, Training Time: 24.2767 secs, Inference Time: 3.6902 secs.
+2022-12-07 23:09: Epoch 153, Train Loss: 15.2208, Valid Loss: 16.5363, Training Time: 24.0014 secs, Inference Time: 3.6571 secs.
+2022-12-07 23:09: Epoch 154, Train Loss: 15.2112, Valid Loss: 16.5183, Training Time: 24.0101 secs, Inference Time: 3.8123 secs.
+2022-12-07 23:10: Epoch 155, Train Loss: 15.2121, Valid Loss: 16.4139, Training Time: 24.1064 secs, Inference Time: 3.6391 secs.
+2022-12-07 23:10: Current best model saved!
+2022-12-07 23:10: Epoch 156, Train Loss: 15.1887, Valid Loss: 16.5839, Training Time: 23.9340 secs, Inference Time: 3.7028 secs.
+2022-12-07 23:11: Epoch 157, Train Loss: 15.1967, Valid Loss: 16.6438, Training Time: 24.4061 secs, Inference Time: 3.8059 secs.
+2022-12-07 23:11: Epoch 158, Train Loss: 15.1706, Valid Loss: 16.5254, Training Time: 24.0388 secs, Inference Time: 3.6480 secs.
+2022-12-07 23:12: Epoch 159, Train Loss: 15.1883, Valid Loss: 16.4994, Training Time: 23.9904 secs, Inference Time: 3.6329 secs.
+2022-12-07 23:12: Epoch 160, Train Loss: 15.1653, Valid Loss: 16.4322, Training Time: 24.4564 secs, Inference Time: 3.6631 secs.
+2022-12-07 23:13: Epoch 161, Train Loss: 15.1657, Valid Loss: 16.6285, Training Time: 23.8968 secs, Inference Time: 3.6891 secs.
+2022-12-07 23:13: Epoch 162, Train Loss: 15.1683, Valid Loss: 16.5427, Training Time: 23.9663 secs, Inference Time: 3.6438 secs.
+2022-12-07 23:14: Epoch 163, Train Loss: 15.1272, Valid Loss: 16.4174, Training Time: 24.3100 secs, Inference Time: 3.6308 secs.
+2022-12-07 23:14: Epoch 164, Train Loss: 15.1721, Valid Loss: 16.4439, Training Time: 23.8530 secs, Inference Time: 3.6934 secs.
+2022-12-07 23:15: Epoch 165, Train Loss: 15.1183, Valid Loss: 16.4087, Training Time: 23.8900 secs, Inference Time: 3.6941 secs.
+2022-12-07 23:15: Current best model saved!
+2022-12-07 23:15: Epoch 166, Train Loss: 15.1178, Valid Loss: 16.5173, Training Time: 24.4269 secs, Inference Time: 3.6651 secs.
+2022-12-07 23:15: Epoch 167, Train Loss: 15.1172, Valid Loss: 16.4368, Training Time: 24.1139 secs, Inference Time: 3.7170 secs.
+2022-12-07 23:16: Epoch 168, Train Loss: 15.1075, Valid Loss: 16.4891, Training Time: 23.9562 secs, Inference Time: 3.8775 secs.
+2022-12-07 23:16: Epoch 169, Train Loss: 15.0946, Valid Loss: 16.5880, Training Time: 24.2423 secs, Inference Time: 3.6206 secs.
+2022-12-07 23:17: Epoch 170, Train Loss: 15.1067, Valid Loss: 16.4824, Training Time: 24.1090 secs, Inference Time: 3.6561 secs.
+2022-12-07 23:17: Epoch 171, Train Loss: 15.0670, Valid Loss: 16.5074, Training Time: 24.3249 secs, Inference Time: 3.8182 secs.
+2022-12-07 23:18: Epoch 172, Train Loss: 15.0797, Valid Loss: 16.4068, Training Time: 24.1408 secs, Inference Time: 3.7160 secs.
+2022-12-07 23:18: Current best model saved!
+2022-12-07 23:18: Epoch 173, Train Loss: 15.0760, Valid Loss: 16.5721, Training Time: 24.3692 secs, Inference Time: 3.9540 secs.
+2022-12-07 23:19: Epoch 174, Train Loss: 15.0911, Valid Loss: 16.4592, Training Time: 25.3818 secs, Inference Time: 4.2067 secs.
+2022-12-07 23:19: Epoch 175, Train Loss: 15.0770, Valid Loss: 16.4774, Training Time: 25.6599 secs, Inference Time: 4.0092 secs.
+2022-12-07 23:20: Epoch 176, Train Loss: 15.0684, Valid Loss: 16.4321, Training Time: 25.1741 secs, Inference Time: 4.1494 secs.
+2022-12-07 23:20: Epoch 177, Train Loss: 15.0851, Valid Loss: 16.5192, Training Time: 25.5732 secs, Inference Time: 4.1394 secs.
+2022-12-07 23:21: Epoch 178, Train Loss: 15.0331, Valid Loss: 16.5905, Training Time: 25.8564 secs, Inference Time: 4.0126 secs.
+2022-12-07 23:21: Epoch 179, Train Loss: 15.0335, Valid Loss: 16.4820, Training Time: 25.3801 secs, Inference Time: 4.0630 secs.
+2022-12-07 23:22: Epoch 180, Train Loss: 15.0300, Valid Loss: 16.4461, Training Time: 25.4897 secs, Inference Time: 4.0685 secs.
+2022-12-07 23:22: Epoch 181, Train Loss: 15.0619, Valid Loss: 16.4848, Training Time: 25.6916 secs, Inference Time: 4.5532 secs.
+2022-12-07 23:23: Epoch 182, Train Loss: 15.0344, Valid Loss: 16.3921, Training Time: 25.8195 secs, Inference Time: 4.1002 secs.
+2022-12-07 23:23: Current best model saved!
+2022-12-07 23:23: Epoch 183, Train Loss: 15.0038, Valid Loss: 16.3758, Training Time: 25.9127 secs, Inference Time: 4.1946 secs.
+2022-12-07 23:23: Current best model saved!
+2022-12-07 23:24: Epoch 184, Train Loss: 15.0091, Valid Loss: 16.3944, Training Time: 26.1059 secs, Inference Time: 4.2949 secs.
+2022-12-07 23:24: Epoch 185, Train Loss: 14.9900, Valid Loss: 16.4154, Training Time: 26.7941 secs, Inference Time: 4.1799 secs.
+2022-12-07 23:25: Epoch 186, Train Loss: 14.9959, Valid Loss: 16.4891, Training Time: 26.6114 secs, Inference Time: 4.3329 secs.
+2022-12-07 23:25: Epoch 187, Train Loss: 15.0007, Valid Loss: 16.4254, Training Time: 25.8467 secs, Inference Time: 4.2885 secs.
+2022-12-07 23:26: Epoch 188, Train Loss: 14.9756, Valid Loss: 16.4594, Training Time: 26.1024 secs, Inference Time: 4.6183 secs.
+2022-12-07 23:26: Epoch 189, Train Loss: 14.9618, Valid Loss: 16.3980, Training Time: 26.5135 secs, Inference Time: 4.2924 secs.
+2022-12-07 23:27: Epoch 190, Train Loss: 14.9587, Valid Loss: 16.4279, Training Time: 26.4362 secs, Inference Time: 4.3561 secs.
+2022-12-07 23:27: Epoch 191, Train Loss: 14.9462, Valid Loss: 16.5429, Training Time: 26.3033 secs, Inference Time: 4.2581 secs.
+2022-12-07 23:28: Epoch 192, Train Loss: 14.9513, Valid Loss: 16.4254, Training Time: 26.3236 secs, Inference Time: 4.5159 secs.
+2022-12-07 23:28: Epoch 193, Train Loss: 15.0087, Valid Loss: 16.3904, Training Time: 26.1168 secs, Inference Time: 4.2542 secs.
+2022-12-07 23:29: Epoch 194, Train Loss: 14.9822, Valid Loss: 16.4029, Training Time: 25.9024 secs, Inference Time: 4.2789 secs.
+2022-12-07 23:29: Epoch 195, Train Loss: 14.9371, Valid Loss: 16.3713, Training Time: 26.3544 secs, Inference Time: 4.4313 secs.
+2022-12-07 23:29: Current best model saved!
+2022-12-07 23:30: Epoch 196, Train Loss: 14.9497, Valid Loss: 16.4702, Training Time: 26.7250 secs, Inference Time: 4.2752 secs.
+2022-12-07 23:30: Epoch 197, Train Loss: 14.9313, Valid Loss: 16.5016, Training Time: 26.1271 secs, Inference Time: 4.1864 secs.
+2022-12-07 23:31: Epoch 198, Train Loss: 14.9357, Valid Loss: 16.4261, Training Time: 25.9029 secs, Inference Time: 4.2658 secs.
+2022-12-07 23:31: Epoch 199, Train Loss: 14.9588, Valid Loss: 16.5976, Training Time: 26.3446 secs, Inference Time: 4.5169 secs.
+2022-12-07 23:32: Epoch 200, Train Loss: 14.9138, Valid Loss: 16.5042, Training Time: 27.0965 secs, Inference Time: 4.1494 secs.
+2022-12-07 23:32: Epoch 201, Train Loss: 14.9158, Valid Loss: 16.4721, Training Time: 25.9071 secs, Inference Time: 4.2292 secs.
+2022-12-07 23:33: Epoch 202, Train Loss: 14.8977, Valid Loss: 16.4510, Training Time: 25.7914 secs, Inference Time: 4.3029 secs.
+2022-12-07 23:33: Epoch 203, Train Loss: 14.9112, Valid Loss: 16.4072, Training Time: 26.5840 secs, Inference Time: 4.3151 secs.
+2022-12-07 23:34: Epoch 204, Train Loss: 14.9212, Valid Loss: 16.4310, Training Time: 26.2776 secs, Inference Time: 4.4470 secs.
+2022-12-07 23:34: Epoch 205, Train Loss: 14.9442, Valid Loss: 16.4060, Training Time: 26.2061 secs, Inference Time: 4.1808 secs.
+2022-12-07 23:35: Epoch 206, Train Loss: 14.8723, Valid Loss: 16.4008, Training Time: 25.9624 secs, Inference Time: 4.1561 secs.
+2022-12-07 23:35: Epoch 207, Train Loss: 14.8970, Valid Loss: 16.4508, Training Time: 26.4867 secs, Inference Time: 4.1740 secs.
+2022-12-07 23:36: Epoch 208, Train Loss: 14.9155, Valid Loss: 16.3545, Training Time: 26.1377 secs, Inference Time: 4.1796 secs.
+2022-12-07 23:36: Current best model saved!
+2022-12-07 23:36: Epoch 209, Train Loss: 14.8530, Valid Loss: 16.3782, Training Time: 26.5986 secs, Inference Time: 4.2409 secs.
+2022-12-07 23:37: Epoch 210, Train Loss: 14.8791, Valid Loss: 16.5029, Training Time: 26.1727 secs, Inference Time: 4.4116 secs.
+2022-12-07 23:37: Epoch 211, Train Loss: 14.8799, Valid Loss: 16.4114, Training Time: 26.6378 secs, Inference Time: 4.2819 secs.
+2022-12-07 23:38: Epoch 212, Train Loss: 14.8538, Valid Loss: 16.4501, Training Time: 26.1502 secs, Inference Time: 4.3028 secs.
+2022-12-07 23:39: Epoch 213, Train Loss: 14.8719, Valid Loss: 16.3703, Training Time: 26.1692 secs, Inference Time: 4.4741 secs.
+2022-12-07 23:39: Epoch 214, Train Loss: 14.8376, Valid Loss: 16.4452, Training Time: 26.5529 secs, Inference Time: 4.3645 secs.
+2022-12-07 23:40: Epoch 215, Train Loss: 14.8513, Valid Loss: 16.4031, Training Time: 26.1715 secs, Inference Time: 4.2656 secs.
+2022-12-07 23:40: Epoch 216, Train Loss: 14.8506, Valid Loss: 16.4945, Training Time: 26.1038 secs, Inference Time: 4.1993 secs.
+2022-12-07 23:41: Epoch 217, Train Loss: 14.8245, Valid Loss: 16.4017, Training Time: 26.0589 secs, Inference Time: 4.2319 secs.
+2022-12-07 23:41: Epoch 218, Train Loss: 14.8072, Valid Loss: 16.3586, Training Time: 27.4906 secs, Inference Time: 4.3224 secs.
+2022-12-07 23:42: Epoch 219, Train Loss: 14.8210, Valid Loss: 16.3129, Training Time: 25.9668 secs, Inference Time: 4.2209 secs.
+2022-12-07 23:42: Current best model saved!
+2022-12-07 23:42: Epoch 220, Train Loss: 14.8401, Valid Loss: 16.3484, Training Time: 25.9828 secs, Inference Time: 4.0777 secs.
+2022-12-07 23:43: Epoch 221, Train Loss: 14.8218, Valid Loss: 16.3479, Training Time: 26.3641 secs, Inference Time: 4.3418 secs.
+2022-12-07 23:43: Epoch 222, Train Loss: 14.8670, Valid Loss: 16.3575, Training Time: 26.4915 secs, Inference Time: 4.4174 secs.
+2022-12-07 23:44: Epoch 223, Train Loss: 14.8190, Valid Loss: 16.4173, Training Time: 26.2501 secs, Inference Time: 4.2856 secs.
+2022-12-07 23:44: Epoch 224, Train Loss: 14.8218, Valid Loss: 16.4018, Training Time: 26.1000 secs, Inference Time: 4.3421 secs.
+2022-12-07 23:45: Epoch 225, Train Loss: 14.7980, Valid Loss: 16.4346, Training Time: 26.2973 secs, Inference Time: 4.3280 secs.
+2022-12-07 23:45: Epoch 226, Train Loss: 14.7999, Valid Loss: 16.3275, Training Time: 26.2795 secs, Inference Time: 4.2528 secs.
+2022-12-07 23:46: Epoch 227, Train Loss: 14.8106, Valid Loss: 16.3733, Training Time: 26.4342 secs, Inference Time: 4.4454 secs.
+2022-12-07 23:46: Epoch 228, Train Loss: 14.7584, Valid Loss: 16.3867, Training Time: 26.0484 secs, Inference Time: 4.0542 secs.
+2022-12-07 23:47: Epoch 229, Train Loss: 14.8123, Valid Loss: 16.3564, Training Time: 26.6195 secs, Inference Time: 4.1884 secs.
+2022-12-07 23:47: Epoch 230, Train Loss: 14.7725, Valid Loss: 16.4360, Training Time: 25.8641 secs, Inference Time: 4.2186 secs.
+2022-12-07 23:48: Epoch 231, Train Loss: 14.7863, Valid Loss: 16.4366, Training Time: 25.8710 secs, Inference Time: 4.4577 secs.
+2022-12-07 23:48: Epoch 232, Train Loss: 14.7730, Valid Loss: 16.4204, Training Time: 26.4171 secs, Inference Time: 4.4085 secs.
+2022-12-07 23:49: Epoch 233, Train Loss: 14.7617, Valid Loss: 16.4293, Training Time: 26.3498 secs, Inference Time: 4.1995 secs.
+2022-12-07 23:49: Epoch 234, Train Loss: 14.7443, Valid Loss: 16.3615, Training Time: 25.9123 secs, Inference Time: 4.0940 secs.
+2022-12-07 23:49: Validation performance didn't improve for 15 epochs. Training stops.
+2022-12-07 23:49: Total training time: 114.1781 min, best loss: 16.312881
+2022-12-07 23:49: Saving current best model to /home/trainingl/GNN4Traffic/TrafficFlow/log/AGCRN/PEMSD8/20221207215531/PEMSD8_AGCRN_best_model.pth
+2022-12-07 23:49: Horizon 01, MAE: 14.32, RMSE: 22.23, MAPE: 9.1611%
+2022-12-07 23:49: Horizon 02, MAE: 14.50, RMSE: 22.71, MAPE: 9.2973%
+2022-12-07 23:49: Horizon 03, MAE: 14.78, RMSE: 23.27, MAPE: 9.4950%
+2022-12-07 23:49: Horizon 04, MAE: 15.11, RMSE: 23.90, MAPE: 9.7423%
+2022-12-07 23:49: Horizon 05, MAE: 15.45, RMSE: 24.49, MAPE: 9.9268%
+2022-12-07 23:49: Horizon 06, MAE: 15.77, RMSE: 25.01, MAPE: 10.1781%
+2022-12-07 23:49: Horizon 07, MAE: 16.05, RMSE: 25.45, MAPE: 10.3693%
+2022-12-07 23:49: Horizon 08, MAE: 16.25, RMSE: 25.78, MAPE: 10.5425%
+2022-12-07 23:49: Horizon 09, MAE: 16.42, RMSE: 26.05, MAPE: 10.6669%
+2022-12-07 23:49: Horizon 10, MAE: 16.61, RMSE: 26.37, MAPE: 10.7676%
+2022-12-07 23:49: Horizon 11, MAE: 16.95, RMSE: 26.88, MAPE: 10.9282%
+2022-12-07 23:49: Horizon 12, MAE: 17.52, RMSE: 27.69, MAPE: 11.2565%
+2022-12-07 23:49: Average Horizon, MAE: 15.81, RMSE: 25.04, MAPE: 10.1943%

@@ -1,0 +1,103 @@
+2023-02-03 19:23: Experiment log path in: /home/trainingl/GNN4Traffic/TrafficSpeed/log/DCRNN/PEMSBAY/20230203192342
+2023-02-03 19:23: Namespace(batch_size=64, cl=True, cl_decay_steps=2000, dataset='PEMSBAY', dataset_dir='../data/PEMS-BAY/processed/', debug=False, device='cuda:3', early_stop=True, early_stop_patience=50, epochs=100, filter_type='dual_random_walk', grad_norm=True, graph_pkl='../data/PEMS-BAY/processed/adj_mx.pkl', horizon=12, input_dim=2, log_dir='/home/trainingl/GNN4Traffic/TrafficSpeed/log/DCRNN/PEMSBAY/20230203192342', loss_func='mask_mae', lr_decay=False, lr_decay_rate=0.3, lr_decay_step='60,80,100', lr_init=0.001, max_diffusion_step=2, max_grad_norm=5, mode='train', model='DCRNN', new_training_method=False, num_nodes=325, num_rnn_layers=2, output_dim=1, rnn_units=64, seed=42, step_size=2500, use_curriculum_learning=True, weight_decay=0.0001, window=12)
+2023-02-03 19:23: start training...
+2023-02-03 19:41: Epoch 001, Train Loss: 1.0572, Valid Loss: 2.2173, Valid RMSE: 4.6764, Valid MAPE: 0.0501, Training Time: 1000.9170 secs, Inference Time: 71.1300 secs.
+2023-02-03 19:59: Epoch 002, Train Loss: 0.8777, Valid Loss: 2.3460, Valid RMSE: 4.8061, Valid MAPE: 0.0521, Training Time: 1001.4641 secs, Inference Time: 71.3846 secs.
+2023-02-03 20:17: Epoch 003, Train Loss: 0.8668, Valid Loss: 2.1472, Valid RMSE: 4.5518, Valid MAPE: 0.0488, Training Time: 1019.5848 secs, Inference Time: 71.0555 secs.
+2023-02-03 20:35: Epoch 004, Train Loss: 0.8623, Valid Loss: 2.3865, Valid RMSE: 5.0441, Valid MAPE: 0.0529, Training Time: 1000.3267 secs, Inference Time: 71.3132 secs.
+2023-02-03 20:53: Epoch 005, Train Loss: 0.8551, Valid Loss: 2.0505, Valid RMSE: 4.4048, Valid MAPE: 0.0477, Training Time: 998.6357 secs, Inference Time: 70.9995 secs.
+2023-02-03 21:11: Epoch 006, Train Loss: 0.8513, Valid Loss: 2.0898, Valid RMSE: 4.4122, Valid MAPE: 0.0488, Training Time: 1000.3067 secs, Inference Time: 71.2467 secs.
+2023-02-03 21:29: Epoch 007, Train Loss: 0.8535, Valid Loss: 2.0619, Valid RMSE: 4.3123, Valid MAPE: 0.0483, Training Time: 998.8455 secs, Inference Time: 71.0439 secs.
+2023-02-03 21:46: Epoch 008, Train Loss: 0.8583, Valid Loss: 2.0351, Valid RMSE: 4.3604, Valid MAPE: 0.0463, Training Time: 995.6755 secs, Inference Time: 70.2906 secs.
+2023-02-03 22:04: Epoch 009, Train Loss: 0.8699, Valid Loss: 2.0131, Valid RMSE: 4.3568, Valid MAPE: 0.0455, Training Time: 989.2591 secs, Inference Time: 70.3261 secs.
+2023-02-03 22:22: Epoch 010, Train Loss: 0.8971, Valid Loss: 1.9755, Valid RMSE: 4.1512, Valid MAPE: 0.0511, Training Time: 990.0659 secs, Inference Time: 70.5142 secs.
+2023-02-03 22:39: Epoch 011, Train Loss: 0.9430, Valid Loss: 1.9292, Valid RMSE: 3.9843, Valid MAPE: 0.0455, Training Time: 990.5331 secs, Inference Time: 70.3791 secs.
+2023-02-03 22:57: Epoch 012, Train Loss: 0.9984, Valid Loss: 1.8563, Valid RMSE: 4.0033, Valid MAPE: 0.0419, Training Time: 990.1817 secs, Inference Time: 70.7210 secs.
+2023-02-03 23:15: Epoch 013, Train Loss: 1.0746, Valid Loss: 1.8844, Valid RMSE: 4.0045, Valid MAPE: 0.0418, Training Time: 989.8807 secs, Inference Time: 70.4987 secs.
+2023-02-03 23:32: Epoch 014, Train Loss: 1.2013, Valid Loss: 1.8096, Valid RMSE: 3.8095, Valid MAPE: 0.0415, Training Time: 991.9171 secs, Inference Time: 71.2257 secs.
+2023-02-03 23:50: Epoch 015, Train Loss: 1.2898, Valid Loss: 1.7654, Valid RMSE: 3.7277, Valid MAPE: 0.0426, Training Time: 996.3302 secs, Inference Time: 70.4978 secs.
+2023-02-04 00:08: Epoch 016, Train Loss: 1.3701, Valid Loss: 1.7350, Valid RMSE: 3.6403, Valid MAPE: 0.0416, Training Time: 992.5783 secs, Inference Time: 70.7851 secs.
+2023-02-04 00:26: Epoch 017, Train Loss: 1.4315, Valid Loss: 1.7018, Valid RMSE: 3.5390, Valid MAPE: 0.0398, Training Time: 996.1346 secs, Inference Time: 70.8234 secs.
+2023-02-04 00:43: Epoch 018, Train Loss: 1.4597, Valid Loss: 1.6849, Valid RMSE: 3.5013, Valid MAPE: 0.0384, Training Time: 995.6545 secs, Inference Time: 70.6149 secs.
+2023-02-04 01:01: Epoch 019, Train Loss: 1.4658, Valid Loss: 1.6680, Valid RMSE: 3.4884, Valid MAPE: 0.0390, Training Time: 996.6562 secs, Inference Time: 70.8017 secs.
+2023-02-04 01:19: Epoch 020, Train Loss: 1.4768, Valid Loss: 1.6562, Valid RMSE: 3.4690, Valid MAPE: 0.0378, Training Time: 993.9738 secs, Inference Time: 70.3748 secs.
+2023-02-04 01:37: Epoch 021, Train Loss: 1.4666, Valid Loss: 1.6520, Valid RMSE: 3.4710, Valid MAPE: 0.0381, Training Time: 992.5894 secs, Inference Time: 71.0869 secs.
+2023-02-04 01:54: Epoch 022, Train Loss: 1.4516, Valid Loss: 1.6497, Valid RMSE: 3.4704, Valid MAPE: 0.0373, Training Time: 992.2753 secs, Inference Time: 70.5525 secs.
+2023-02-04 02:12: Epoch 023, Train Loss: 1.4445, Valid Loss: 1.6483, Valid RMSE: 3.4415, Valid MAPE: 0.0369, Training Time: 993.1413 secs, Inference Time: 70.4613 secs.
+2023-02-04 02:30: Epoch 024, Train Loss: 1.4372, Valid Loss: 1.6585, Valid RMSE: 3.4678, Valid MAPE: 0.0384, Training Time: 991.3685 secs, Inference Time: 70.5783 secs.
+2023-02-04 02:48: Epoch 025, Train Loss: 1.4277, Valid Loss: 1.6399, Valid RMSE: 3.4576, Valid MAPE: 0.0379, Training Time: 991.7611 secs, Inference Time: 70.4391 secs.
+2023-02-04 03:05: Epoch 026, Train Loss: 1.4200, Valid Loss: 1.6556, Valid RMSE: 3.5061, Valid MAPE: 0.0374, Training Time: 991.4366 secs, Inference Time: 70.6146 secs.
+2023-02-04 03:23: Epoch 027, Train Loss: 1.4120, Valid Loss: 1.6362, Valid RMSE: 3.4246, Valid MAPE: 0.0372, Training Time: 991.0665 secs, Inference Time: 70.4838 secs.
+2023-02-04 03:41: Epoch 028, Train Loss: 1.4050, Valid Loss: 1.6457, Valid RMSE: 3.4682, Valid MAPE: 0.0373, Training Time: 991.9060 secs, Inference Time: 70.2590 secs.
+2023-02-04 03:58: Epoch 029, Train Loss: 1.3972, Valid Loss: 1.6385, Valid RMSE: 3.4627, Valid MAPE: 0.0372, Training Time: 990.7493 secs, Inference Time: 70.2901 secs.
+2023-02-04 04:16: Epoch 030, Train Loss: 1.3893, Valid Loss: 1.6439, Valid RMSE: 3.4709, Valid MAPE: 0.0370, Training Time: 991.7195 secs, Inference Time: 70.5880 secs.
+2023-02-04 04:34: Epoch 031, Train Loss: 1.3817, Valid Loss: 1.6576, Valid RMSE: 3.5258, Valid MAPE: 0.0391, Training Time: 991.5473 secs, Inference Time: 70.7050 secs.
+2023-02-04 04:51: Epoch 032, Train Loss: 1.3791, Valid Loss: 1.6481, Valid RMSE: 3.4498, Valid MAPE: 0.0381, Training Time: 987.8748 secs, Inference Time: 69.9193 secs.
+2023-02-04 05:09: Epoch 033, Train Loss: 1.3709, Valid Loss: 1.6413, Valid RMSE: 3.4732, Valid MAPE: 0.0372, Training Time: 984.0804 secs, Inference Time: 70.0954 secs.
+2023-02-04 05:27: Epoch 034, Train Loss: 1.3659, Valid Loss: 1.6325, Valid RMSE: 3.4455, Valid MAPE: 0.0368, Training Time: 984.4045 secs, Inference Time: 69.9352 secs.
+2023-02-04 05:44: Epoch 035, Train Loss: 1.3613, Valid Loss: 1.6450, Valid RMSE: 3.4743, Valid MAPE: 0.0367, Training Time: 984.5794 secs, Inference Time: 69.9167 secs.
+2023-02-04 06:02: Epoch 036, Train Loss: 1.3577, Valid Loss: 1.6385, Valid RMSE: 3.4740, Valid MAPE: 0.0375, Training Time: 984.1379 secs, Inference Time: 69.8262 secs.
+2023-02-04 06:19: Epoch 037, Train Loss: 1.3494, Valid Loss: 1.6530, Valid RMSE: 3.5123, Valid MAPE: 0.0385, Training Time: 984.6062 secs, Inference Time: 69.8409 secs.
+2023-02-04 06:37: Epoch 038, Train Loss: 1.3473, Valid Loss: 1.6377, Valid RMSE: 3.4645, Valid MAPE: 0.0379, Training Time: 984.9479 secs, Inference Time: 69.8278 secs.
+2023-02-04 06:54: Epoch 039, Train Loss: 1.3446, Valid Loss: 1.6329, Valid RMSE: 3.4648, Valid MAPE: 0.0372, Training Time: 984.0401 secs, Inference Time: 70.0314 secs.
+2023-02-04 07:12: Epoch 040, Train Loss: 1.3367, Valid Loss: 1.6428, Valid RMSE: 3.4847, Valid MAPE: 0.0373, Training Time: 983.6749 secs, Inference Time: 69.8323 secs.
+2023-02-04 07:30: Epoch 041, Train Loss: 1.3329, Valid Loss: 1.6413, Valid RMSE: 3.4865, Valid MAPE: 0.0377, Training Time: 984.5587 secs, Inference Time: 69.9402 secs.
+2023-02-04 07:47: Epoch 042, Train Loss: 1.3312, Valid Loss: 1.6496, Valid RMSE: 3.5105, Valid MAPE: 0.0376, Training Time: 984.3796 secs, Inference Time: 70.0168 secs.
+2023-02-04 08:05: Epoch 043, Train Loss: 1.3283, Valid Loss: 1.6437, Valid RMSE: 3.4738, Valid MAPE: 0.0370, Training Time: 984.4292 secs, Inference Time: 69.8906 secs.
+2023-02-04 08:22: Epoch 044, Train Loss: 1.3233, Valid Loss: 1.6383, Valid RMSE: 3.4715, Valid MAPE: 0.0375, Training Time: 984.3815 secs, Inference Time: 70.0928 secs.
+2023-02-04 08:40: Epoch 045, Train Loss: 1.3194, Valid Loss: 1.6497, Valid RMSE: 3.4956, Valid MAPE: 0.0372, Training Time: 983.8229 secs, Inference Time: 69.8246 secs.
+2023-02-04 08:57: Epoch 046, Train Loss: 1.3175, Valid Loss: 1.6527, Valid RMSE: 3.5004, Valid MAPE: 0.0379, Training Time: 984.5129 secs, Inference Time: 70.0087 secs.
+2023-02-04 09:15: Epoch 047, Train Loss: 1.3137, Valid Loss: 1.6629, Valid RMSE: 3.5256, Valid MAPE: 0.0378, Training Time: 984.1636 secs, Inference Time: 69.8577 secs.
+2023-02-04 09:33: Epoch 048, Train Loss: 1.3099, Valid Loss: 1.6451, Valid RMSE: 3.4712, Valid MAPE: 0.0372, Training Time: 983.9505 secs, Inference Time: 69.9693 secs.
+2023-02-04 09:50: Epoch 049, Train Loss: 1.3065, Valid Loss: 1.6427, Valid RMSE: 3.4972, Valid MAPE: 0.0374, Training Time: 985.2382 secs, Inference Time: 70.1102 secs.
+2023-02-04 10:08: Epoch 050, Train Loss: 1.3056, Valid Loss: 1.6534, Valid RMSE: 3.5058, Valid MAPE: 0.0380, Training Time: 988.5292 secs, Inference Time: 70.3006 secs.
+2023-02-04 10:26: Epoch 051, Train Loss: 1.3035, Valid Loss: 1.6481, Valid RMSE: 3.5095, Valid MAPE: 0.0376, Training Time: 994.7881 secs, Inference Time: 70.8018 secs.
+2023-02-04 10:43: Epoch 052, Train Loss: 1.2987, Valid Loss: 1.6413, Valid RMSE: 3.4803, Valid MAPE: 0.0374, Training Time: 991.4073 secs, Inference Time: 70.0924 secs.
+2023-02-04 11:01: Epoch 053, Train Loss: 1.2973, Valid Loss: 1.6526, Valid RMSE: 3.5116, Valid MAPE: 0.0376, Training Time: 986.3108 secs, Inference Time: 70.1778 secs.
+2023-02-04 11:18: Epoch 054, Train Loss: 1.2931, Valid Loss: 1.6556, Valid RMSE: 3.5041, Valid MAPE: 0.0384, Training Time: 985.8659 secs, Inference Time: 70.1948 secs.
+2023-02-04 11:36: Epoch 055, Train Loss: 1.2953, Valid Loss: 1.6475, Valid RMSE: 3.4945, Valid MAPE: 0.0375, Training Time: 985.6190 secs, Inference Time: 70.1617 secs.
+2023-02-04 11:54: Epoch 056, Train Loss: 1.2884, Valid Loss: 1.6513, Valid RMSE: 3.5074, Valid MAPE: 0.0375, Training Time: 985.9013 secs, Inference Time: 70.0188 secs.
+2023-02-04 12:11: Epoch 057, Train Loss: 1.2882, Valid Loss: 1.6528, Valid RMSE: 3.5014, Valid MAPE: 0.0377, Training Time: 986.6658 secs, Inference Time: 70.1433 secs.
+2023-02-04 12:29: Epoch 058, Train Loss: 1.2873, Valid Loss: 1.6492, Valid RMSE: 3.4893, Valid MAPE: 0.0381, Training Time: 988.4157 secs, Inference Time: 70.5576 secs.
+2023-02-04 12:47: Epoch 059, Train Loss: 1.2824, Valid Loss: 1.6463, Valid RMSE: 3.4877, Valid MAPE: 0.0379, Training Time: 998.5532 secs, Inference Time: 71.5111 secs.
+2023-02-04 13:05: Epoch 060, Train Loss: 1.2809, Valid Loss: 1.6484, Valid RMSE: 3.4944, Valid MAPE: 0.0378, Training Time: 1001.3138 secs, Inference Time: 71.4435 secs.
+2023-02-04 13:22: Epoch 061, Train Loss: 1.2792, Valid Loss: 1.6460, Valid RMSE: 3.4952, Valid MAPE: 0.0378, Training Time: 1001.4583 secs, Inference Time: 71.1316 secs.
+2023-02-04 13:40: Epoch 062, Train Loss: 1.2763, Valid Loss: 1.6508, Valid RMSE: 3.5079, Valid MAPE: 0.0374, Training Time: 1001.8149 secs, Inference Time: 71.2325 secs.
+2023-02-04 13:58: Epoch 063, Train Loss: 1.2756, Valid Loss: 1.6561, Valid RMSE: 3.5152, Valid MAPE: 0.0376, Training Time: 1001.5420 secs, Inference Time: 71.3963 secs.
+2023-02-04 14:16: Epoch 064, Train Loss: 1.2727, Valid Loss: 1.6505, Valid RMSE: 3.5067, Valid MAPE: 0.0376, Training Time: 1000.9062 secs, Inference Time: 71.2088 secs.
+2023-02-04 14:34: Epoch 065, Train Loss: 1.2713, Valid Loss: 1.6512, Valid RMSE: 3.5072, Valid MAPE: 0.0382, Training Time: 1000.9054 secs, Inference Time: 71.3904 secs.
+2023-02-04 14:52: Epoch 066, Train Loss: 1.2714, Valid Loss: 1.6502, Valid RMSE: 3.4850, Valid MAPE: 0.0374, Training Time: 1003.8623 secs, Inference Time: 71.6666 secs.
+2023-02-04 15:10: Epoch 067, Train Loss: 1.2687, Valid Loss: 1.6642, Valid RMSE: 3.5491, Valid MAPE: 0.0390, Training Time: 1001.1825 secs, Inference Time: 70.8438 secs.
+2023-02-04 15:28: Epoch 068, Train Loss: 1.2671, Valid Loss: 1.6562, Valid RMSE: 3.5165, Valid MAPE: 0.0377, Training Time: 1001.6644 secs, Inference Time: 71.4607 secs.
+2023-02-04 15:46: Epoch 069, Train Loss: 1.2672, Valid Loss: 1.6588, Valid RMSE: 3.5207, Valid MAPE: 0.0377, Training Time: 1012.0949 secs, Inference Time: 72.3357 secs.
+2023-02-04 16:04: Epoch 070, Train Loss: 1.2654, Valid Loss: 1.6563, Valid RMSE: 3.5062, Valid MAPE: 0.0381, Training Time: 1010.5666 secs, Inference Time: 71.9862 secs.
+2023-02-04 16:22: Epoch 071, Train Loss: 1.2628, Valid Loss: 1.6625, Valid RMSE: 3.5284, Valid MAPE: 0.0385, Training Time: 1004.7175 secs, Inference Time: 71.0066 secs.
+2023-02-04 16:39: Epoch 072, Train Loss: 1.2612, Valid Loss: 1.6572, Valid RMSE: 3.5083, Valid MAPE: 0.0377, Training Time: 996.6886 secs, Inference Time: 71.0783 secs.
+2023-02-04 16:57: Epoch 073, Train Loss: 1.2609, Valid Loss: 1.6464, Valid RMSE: 3.4974, Valid MAPE: 0.0377, Training Time: 998.5682 secs, Inference Time: 70.9462 secs.
+2023-02-04 17:15: Epoch 074, Train Loss: 1.2577, Valid Loss: 1.6680, Valid RMSE: 3.5367, Valid MAPE: 0.0389, Training Time: 999.3748 secs, Inference Time: 71.0933 secs.
+2023-02-04 17:33: Epoch 075, Train Loss: 1.2572, Valid Loss: 1.6529, Valid RMSE: 3.5129, Valid MAPE: 0.0377, Training Time: 999.2652 secs, Inference Time: 71.2273 secs.
+2023-02-04 17:51: Epoch 076, Train Loss: 1.2556, Valid Loss: 1.6595, Valid RMSE: 3.5162, Valid MAPE: 0.0382, Training Time: 996.4645 secs, Inference Time: 70.5757 secs.
+2023-02-04 18:08: Epoch 077, Train Loss: 1.2544, Valid Loss: 1.6584, Valid RMSE: 3.5397, Valid MAPE: 0.0377, Training Time: 990.3676 secs, Inference Time: 70.3196 secs.
+2023-02-04 18:26: Epoch 078, Train Loss: 1.2523, Valid Loss: 1.6615, Valid RMSE: 3.5314, Valid MAPE: 0.0381, Training Time: 991.1016 secs, Inference Time: 70.5845 secs.
+2023-02-04 18:44: Epoch 079, Train Loss: 1.2528, Valid Loss: 1.6530, Valid RMSE: 3.5099, Valid MAPE: 0.0377, Training Time: 990.3933 secs, Inference Time: 70.5066 secs.
+2023-02-04 19:02: Epoch 080, Train Loss: 1.2494, Valid Loss: 1.6685, Valid RMSE: 3.5288, Valid MAPE: 0.0382, Training Time: 992.6583 secs, Inference Time: 69.9467 secs.
+2023-02-04 19:19: Epoch 081, Train Loss: 1.2484, Valid Loss: 1.6638, Valid RMSE: 3.5118, Valid MAPE: 0.0378, Training Time: 987.3520 secs, Inference Time: 69.8050 secs.
+2023-02-04 19:37: Epoch 082, Train Loss: 1.2486, Valid Loss: 1.6537, Valid RMSE: 3.5130, Valid MAPE: 0.0379, Training Time: 985.6744 secs, Inference Time: 70.5814 secs.
+2023-02-04 19:54: Epoch 083, Train Loss: 1.2457, Valid Loss: 1.6643, Valid RMSE: 3.5400, Valid MAPE: 0.0376, Training Time: 991.5300 secs, Inference Time: 70.7535 secs.
+2023-02-04 20:12: Epoch 084, Train Loss: 1.2450, Valid Loss: 1.6575, Valid RMSE: 3.5280, Valid MAPE: 0.0377, Training Time: 994.4668 secs, Inference Time: 71.2332 secs.
+2023-02-04 20:12: Validation performance didn't improve for 50 epochs. Training stops.
+2023-02-04 20:12: Total training time: 1488.9861 min, best loss: 1.632509
+2023-02-04 20:12: Saving current best model to /home/trainingl/GNN4Traffic/TrafficSpeed/log/DCRNN/PEMSBAY/20230203192342/PEMSBAY_DCRNN_best_model.pth
+2023-02-04 20:15: Evaluate model for horizon  1, MAE: 0.9107, MAPE: 0.0178, RMSE: 1.6149
+2023-02-04 20:15: Evaluate model for horizon  2, MAE: 1.1653, MAPE: 0.0237, RMSE: 2.2947
+2023-02-04 20:15: Evaluate model for horizon  3, MAE: 1.3504, MAPE: 0.0284, RMSE: 2.8379
+2023-02-04 20:15: Evaluate model for horizon  4, MAE: 1.4919, MAPE: 0.0322, RMSE: 3.2693
+2023-02-04 20:15: Evaluate model for horizon  5, MAE: 1.6025, MAPE: 0.0354, RMSE: 3.6076
+2023-02-04 20:15: Evaluate model for horizon  6, MAE: 1.6919, MAPE: 0.0380, RMSE: 3.8742
+2023-02-04 20:15: Evaluate model for horizon  7, MAE: 1.7657, MAPE: 0.0401, RMSE: 4.0862
+2023-02-04 20:15: Evaluate model for horizon  8, MAE: 1.8273, MAPE: 0.0419, RMSE: 4.2545
+2023-02-04 20:15: Evaluate model for horizon  9, MAE: 1.8793, MAPE: 0.0434, RMSE: 4.3894
+2023-02-04 20:15: Evaluate model for horizon 10, MAE: 1.9248, MAPE: 0.0447, RMSE: 4.5002
+2023-02-04 20:15: Evaluate model for horizon 11, MAE: 1.9666, MAPE: 0.0459, RMSE: 4.5966
+2023-02-04 20:15: Evaluate model for horizon 12, MAE: 2.0072, MAPE: 0.0469, RMSE: 4.6871
+2023-02-04 20:15: On average over 12 horizons, MAE: 1.6320, MAPE: 0.0365, RMSE: 3.6677
