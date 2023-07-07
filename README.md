@@ -77,6 +77,12 @@ If you find this repository useful for your work, please consider citing it as f
 
 [STG4Traffic: A Survey and Benchmark of Spatial-Temporal Graph Neural Networks for Traffic Prediction](https://arxiv.org/pdf/2307.00495.pdf)
 
+Our research mainly refers to the following work:
+
+[1] AGCRN：https://github.com/LeiBAI/AGCRN
+
+[2] Graph WaveNet：https://github.com/nnzhan/Graph-WaveNet
+
 We hope this research can make positive and beneficial contributions to the field of spatial-temporal prediction!
 
 
