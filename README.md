@@ -61,7 +61,7 @@ Model Setup, Run and Test: The path GNN4Traffic/TrafficFlow/ModelName creates th
 
 [1] **ModelName_Config.py**: Retrieving the model's parameter configuration entries;
 
-[2]**ModelName_Utils.py**: Additional tool classes for model setup [optional];
+[2] **ModelName_Utils.py**: Additional tool classes for model setup [optional];
 
 [3] **ModelName_Trainer.py**: Model trainer, which undertakes the task of training, validation and testing of models throughout the process;
 
@@ -77,7 +77,7 @@ If you find this repository useful for your work, please consider citing it as f
 
 [STG4Traffic: A Survey and Benchmark of Spatial-Temporal Graph Neural Networks for Traffic Prediction](https://arxiv.org/pdf/2307.00495.pdf)
 
-We hope this research can make positive and beneficial contributions to the field of spatial-temporal prediction !
+We hope this research can make positive and beneficial contributions to the field of spatial-temporal prediction!
 
 
 
