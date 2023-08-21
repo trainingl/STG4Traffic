@@ -75,7 +75,23 @@ Model Setup, Run and Test: The path GNN4Traffic/TrafficFlow/ModelName creates th
 
 If you find this repository useful for your work, please consider citing it as follows:
 
-[STG4Traffic: A Survey and Benchmark of Spatial-Temporal Graph Neural Networks for Traffic Prediction](https://arxiv.org/pdf/2307.00495.pdf)
+
+```tex
+@article{DBLP:journals/corr/abs-2307-00495,
+  author       = {Xunlian Luo and
+                  Chunjiang Zhu and
+                  Detian Zhang and
+                  Qing Li},
+  title        = {STG4Traffic: {A} Survey and Benchmark of Spatial-Temporal Graph Neural
+                  Networks for Traffic Prediction},
+  journal      = {CoRR},
+  volume       = {abs/2307.00495},
+  year         = {2023}
+}
+```
+
+
+[STG4Traffic: A Survey and Benchmark of Spatial-Temporal Graph Neural Networks for Traffic Prediction](https://arxiv.org/abs/2307.00495)
 
 Our research mainly refers to the following work:
 
