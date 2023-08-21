@@ -1,6 +1,6 @@
 # STG4Traffic：A Benchmark Study of Using Spatial-Temporal Graph Neural Networks for Traffic Prediction
 
-## Benchmark Design
+## 📚 Benchmark Design
 
 **Motivation**：The existing benchmarks for traffic prediction lack a standard and unified benchmark, and the experimental settings are not standardized, with complex environment configurations and poor scalability. Furthermore, there are significant differences between the reported results in the original papers and the results obtained from the existing benchmarks, making it difficult to compare different models based on fair baselines.
 
@@ -8,7 +8,7 @@ Given the heterogeneity of traffic data, which can result in significant variati
 
 <img src="figure\benchmark.png" style="zoom:60%;text-align: center;" />
 
-**Datasets**：We validate the methods in the benchmark on the following dataset. 
+**Datasets**：We validate the methods in the benchmark on the following datasets. 
 
 1. METR-LA: Los Angeles Metropolitan Traffic Conditions Data, which records traffic speed data collected at 5-minute intervals by 207 freeway loop detectors from March 2012 to June 2012. 
 2. PEMS-BAY: A network representation of 325 traffic sensors in the Bay Area, collected by the California Department of Transportation (CalTrans) Measurement System (PeMS), displaying traffic flow data at 5-minute intervals from January 2017 to May 2017.
@@ -28,7 +28,7 @@ The detailed statistics of these datasets are as follows:
 pip install -r requirements.txt
 ```
 
-## Experimental Performance
+## 💡 Experimental Performance
 
 To ensure consistency with previous research, we divided the speed data into training, validation, and test sets in a ratio of 7:1:2, while the flow data was divided in a ratio of 6:2:2. If the validation error converges within 15-20 epochs or stops after 100 epochs, the training of the model is stopped and the best model on the validation data is saved. To determine the specific model parameters and settings, including the optimizer, learning rate, loss function, and model parameters, we remained faithful to the original papers while also making multiple tuning efforts to select the best experimental results. In our experiments, we used root mean square error (RMSE), mean absolute error (MAE), and mean absolute percentage error (MAPE) based on masked data as metrics to evaluate the model performance, with zero values being ignored.
 
@@ -36,7 +36,7 @@ To ensure consistency with previous research, we divided the speed data into tra
 
 <center><img src="figure\flow.png" style="zoom:80%;" /></center>
 
-## Usability And Practicality
+## 🛠️ Usability And Practicality
 
 ```bash
 cd STG4Traffic/TrafficFlow
@@ -57,21 +57,21 @@ This directory level enables you to become familiar with the project's public da
 
 Self-Defined Model Design: Create the **ModelName** directory under model and write the **modelname.py** file;
 
-Model Setup, Run and Test: The path GNN4Traffic/TrafficFlow/ModelName creates the following 4 files:
+Model Setup, Run and Test: The path STG4Traffic/TrafficFlow/ModelName creates the following 4 files:
 
-[1] **ModelName_Config.py**: Retrieving the model's parameter configuration entries;
+- **ModelName_Config.py**: Retrieving the model's parameter configuration entries;
 
-[2] **ModelName_Utils.py**: Additional tool classes for model setup [optional];
+- **ModelName_Utils.py**: Additional tool classes for model setup [optional];
 
-[3] **ModelName_Trainer.py**: Model trainer, which undertakes the task of training, validation and testing of models throughout the process;
+- **ModelName_Trainer.py**: Model trainer, which undertakes the task of training, validation and testing of models throughout the process;
 
-[4] **ModelName_Main.py**:  Project start-up portal to complete the initialization of model parameters, optimizer, loss function, learning rate decay strategy and other settings;
+- **ModelName_Main.py**:  Project start-up portal to complete the initialization of model parameters, optimizer, loss function, learning rate decay strategy and other settings;
 
-[5] **Dataset_ModelName.conf**: Different datasets set different parameter terms for the model [can be multiple].
+- **Dataset_ModelName.conf**: Different datasets set different parameter terms for the model [can be multiple].
 
 **Talk is cheap. Show me the code.** You can get a handle on the execution of this benchmark by experimenting with a simple model, such as DCRNN → ModelName, which will help you understand the meaning of the above table of contents.
 
-## Citation
+## 😀 Citation
 
 If you find this repository useful for your work, please consider citing it as follows:
 
@@ -93,7 +93,7 @@ If you find this repository useful for your work, please consider citing it as f
 
 [STG4Traffic: A Survey and Benchmark of Spatial-Temporal Graph Neural Networks for Traffic Prediction](https://arxiv.org/abs/2307.00495)
 
-Our research mainly refers to the following work:
+Our research mainly refers to the following works:
 
 [1] AGCRN：https://github.com/LeiBAI/AGCRN
 
