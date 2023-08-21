@@ -6,7 +6,7 @@
 
 Given the heterogeneity of traffic data, which can result in significant variation in model performance across different datasets, we have selected 15 to 20 models with high impact factors on traffic speed (METR-LA, PEMS-BAY) and traffic flow (PEMSD4, PEMSD8), as well as representative models, to construct a benchmark project file for the uniform evaluation of model performance. The selected methods are as follows: **blue squares represent methods applied to traffic flow, while orange squares represent methods applied to traffic speed.**
 
-<center><img src="figure\benchmark.png" style="zoom:60%;" /></center>
+<img src="figure\benchmark.png" style="zoom:60%;text-align: center;" />
 
 **Datasets**：We validate the methods in the benchmark on the following dataset. 
 
@@ -16,7 +16,7 @@ Given the heterogeneity of traffic data, which can result in significant variati
 
 The detailed statistics of these datasets are as follows:
 
-<center><img src="figure\Datasets.png" style="zoom:80%;" /></center>
+<center><img src="figure\Datasets.png" style="zoom:80%;text-align: center;" /></center>
 
 [METR-LA & PEMS-BAY]：https://github.com/liyaguang/DCRNN
 
