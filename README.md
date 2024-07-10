@@ -22,7 +22,7 @@ The detailed statistics of these datasets are as follows:
 
 [PEMSD4 & PEMSD8]：https://github.com/Davidham3/ASTGCN
 
-**Requirements**：The code is built based on Python 3.8.5 and PyTorch 1.8.0.  You can install other dependencies via: 
+**Requirements**：The code is built based on Python 3.9.0 and PyTorch 1.8.0.  You can install other dependencies via: 
 
 ```bash
 pip install -r requirements.txt
