@@ -6,22 +6,22 @@
 
 Given the heterogeneity of traffic data, which can result in significant variation in model performance across different datasets, we have selected 15 to 20 models with high impact factors on traffic speed (METR-LA, PEMS-BAY) and traffic flow (PEMSD4, PEMSD8), as well as representative models, to construct a benchmark project file for the uniform evaluation of model performance. The selected methods are as follows: 
 
-1. 2018_IJCAI_Spatio-temporal graph convolutional networks: A deep learning framework for traffic forecasting (STGCN). [Paper](https://arxiv.org/abs/1709.04875)
-2. 2018_ICLR_Diffusion convolutional recurrent neural network: Data-driven traffic forecasting (DCRNN). [Paper](https://openreview.net/forum?id=SJiHXGWAZ)
-3. 2018_IEEE TITS_T-GCN: A Temporal Graph Convolutional Network for Traffic Prediction (T-GCN). [Paper](https://ieeexplore.ieee.org/abstract/document/8809901)
-4. 2019_IJCAI_Graph WaveNet for Deep Spatial-Temporal Graph Modeling (GWNET). [Paper](https://arxiv.org/abs/1906.00121)
-5. 2019_AAAI_Attention Based Spatial-Temporal Graph Convolutional Networks for Traffic Flow Forecasting (ASTGCN). [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/3881)
-6. 2020_AAAI_Spatial-Temporal Synchronous Graph Convolutional Networks: A New Framework for Spatial-Temporal Network Data Forecasting (STSGCN). [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/5438)
-7. 2020_NIPS_Adaptive graph convolutional recurrent network for traffic forecasting (AGCRN). [Paper](https://proceedings.neurips.cc/paper/2020/hash/ce1aad92b939420fc17005e5461e6f48-Abstract.html)
-8. 2020_KDD_Connecting the Dots: Multivariate Time Series Forecasting with Graph Neural Networks (MTGNN). [Paper](https://dl.acm.org/doi/abs/10.1145/3394486.3403118)
-9. 2020_AAAI_GMAN: A Graph Multi-Attention Network for Traffic Prediction (GMAN). [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/5477)
-10. 2021_ICLR_Discrete Graph Structure Learning for Forecasting Multiple Time Series (GTS). [Paper](https://arxiv.org/abs/2101.06861)
-11. 2021_KDD_Spatial-Temporal Graph ODE Networks for Traffic Flow Forecasting (STGODE). [Paper](https://dl.acm.org/doi/abs/10.1145/3447548.3467430)
-12. 2021_ACM TKDE_Dynamic Graph Convolutional Recurrent Network for Traffic Prediction: Benchmark and Solution (DGCRN). [Paper](https://dl.acm.org/doi/full/10.1145/3532611)
-13. 2021_CIKM_Enhancing the Robustness via Adversarial Learning and Joint Spatial-Temporal Embeddings in Traffic Forecasting (TrendGCN). [Paper](https://arxiv.org/abs/2208.03063)
-14. 2022_KDD_MSDR: Multi-Step Dependency Relation Networks for Spatial Temporal Forecasting (GMSDR). [Paper](https://dl.acm.org/doi/abs/10.1145/3534678.3539397)
-15. 2022_IJCAI_Regularized Graph Structure Learning with Semantic Knowledge for Multi-variates Time-Series Forecasting (RGSL). [Paper](https://arxiv.org/abs/2210.06126)
-16. 2022_AAAI_Graph Neural Controlled Differential Equations for Traffic Forecasting (STG-NCDE). [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/20587)
+1. 2018_IJCAI_Spatio-temporal graph convolutional networks: A deep learning framework for traffic forecasting (STGCN). [[Paper]](https://arxiv.org/abs/1709.04875)
+2. 2018_ICLR_Diffusion convolutional recurrent neural network: Data-driven traffic forecasting (DCRNN). [[Paper]](https://openreview.net/forum?id=SJiHXGWAZ)
+3. 2018_IEEE TITS_T-GCN: A Temporal Graph Convolutional Network for Traffic Prediction (T-GCN). [[Paper]](https://ieeexplore.ieee.org/abstract/document/8809901)
+4. 2019_IJCAI_Graph WaveNet for Deep Spatial-Temporal Graph Modeling (GWNET). [[Paper]](https://arxiv.org/abs/1906.00121)
+5. 2019_AAAI_Attention Based Spatial-Temporal Graph Convolutional Networks for Traffic Flow Forecasting (ASTGCN). [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/3881)
+6. 2020_AAAI_Spatial-Temporal Synchronous Graph Convolutional Networks: A New Framework for Spatial-Temporal Network Data Forecasting (STSGCN). [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/5438)
+7. 2020_NIPS_Adaptive graph convolutional recurrent network for traffic forecasting (AGCRN). [[Paper]](https://proceedings.neurips.cc/paper/2020/hash/ce1aad92b939420fc17005e5461e6f48-Abstract.html)
+8. 2020_KDD_Connecting the Dots: Multivariate Time Series Forecasting with Graph Neural Networks (MTGNN). [[Paper]](https://dl.acm.org/doi/abs/10.1145/3394486.3403118)
+9. 2020_AAAI_GMAN: A Graph Multi-Attention Network for Traffic Prediction (GMAN). [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/5477)
+10. 2021_ICLR_Discrete Graph Structure Learning for Forecasting Multiple Time Series (GTS). [[Paper]](https://arxiv.org/abs/2101.06861)
+11. 2021_KDD_Spatial-Temporal Graph ODE Networks for Traffic Flow Forecasting (STGODE). [[Paper]](https://dl.acm.org/doi/abs/10.1145/3447548.3467430)
+12. 2021_ACM TKDE_Dynamic Graph Convolutional Recurrent Network for Traffic Prediction: Benchmark and Solution (DGCRN). [[Paper]](https://dl.acm.org/doi/full/10.1145/3532611)
+13. 2021_CIKM_Enhancing the Robustness via Adversarial Learning and Joint Spatial-Temporal Embeddings in Traffic Forecasting (TrendGCN). [[Paper]](https://arxiv.org/abs/2208.03063)
+14. 2022_KDD_MSDR: Multi-Step Dependency Relation Networks for Spatial Temporal Forecasting (GMSDR). [[Paper]](https://dl.acm.org/doi/abs/10.1145/3534678.3539397)
+15. 2022_IJCAI_Regularized Graph Structure Learning with Semantic Knowledge for Multi-variates Time-Series Forecasting (RGSL). [[Paper]](https://arxiv.org/abs/2210.06126)
+16. 2022_AAAI_Graph Neural Controlled Differential Equations for Traffic Forecasting (STG-NCDE). [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/20587)
 
 **Datasets**：We validate the methods in the benchmark on the following datasets. 
 
